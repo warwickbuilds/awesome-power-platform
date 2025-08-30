@@ -7,6 +7,7 @@
 
 - [Section](#section)
 - [Another Section](#another-section)
+- [Contribute](#contribute)
 
 
 ## Section
@@ -27,4 +28,17 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! This is a community-driven project that thrives on your suggestions.
+
+**Quick start:**
+- Add your Power Platform resource in the appropriate section
+- Follow our [contribution guidelines](contributing.md)
+- Submit a pull request
+
+**What makes a good contribution:**
+- High-quality, well-maintained resources
+- Clear descriptions under 25 words
+- Proper formatting and working links
+- Resources that provide real value to the Power Platform community
+
+For detailed guidelines and step-by-step instructions, please read our [contribution guidelines](contributing.md) first.
